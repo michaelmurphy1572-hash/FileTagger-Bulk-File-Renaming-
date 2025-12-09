@@ -8,7 +8,6 @@ or any other files by adding consistent, customizable suffixes (e.g., year, cust
 name, or sequential numbers).
 
 • Author: Michael Murphy
-• Contact: michaelmurphy1572@gmail.com
 • Version: Flex V1 (2024–2025)
 
 The program requires no installation—just double-click the FileTagger.exe file to run it.
@@ -89,6 +88,4 @@ time.
 • Avoid special characters (/\:*?"<>|) in custom text.
 • The tool works with any file type.
 
-Note the exact error message and send it to
-michaelmurphy1572@gmail.com along with
-steps to reproduce.
+Note the exact error message and send it to me with steps to reproduce.
